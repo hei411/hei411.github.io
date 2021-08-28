@@ -5,6 +5,7 @@
 #
 layout: home
 title: 'My Projects'
+exclude: true
 ---
 
 
