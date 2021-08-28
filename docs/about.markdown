@@ -7,9 +7,9 @@ I am Li Kwing Hei (or simply known as Hei Li), a Computer Science with Mathemati
 
 I am interested in the design, implementation and verification of tools for software engineering and programming languages, through techniques from Type Theory, Mathematical Logic and Category Theory.
 
-This is a most handsome photo of me I could find:
+This is the most handsome photo of myself I could find in my phone:
 
-![OMG! I'm so handsome x](/assets/me.jpg)
+![OMG! I'm so handsome x](/assets/me.jpg){: width="250" }
 
 <!--- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
