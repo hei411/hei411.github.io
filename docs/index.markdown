@@ -4,10 +4,10 @@
 
 #
 layout: home
-list_title: ' '
+list_title: 'My Projects'
 ---
 
-# Click to see more about my projects!
+
 
 ## Eva: Type-based Guarantees for Functional Reactive Programming
 ## Salvia: Secure Aggregation for Flower
