@@ -10,5 +10,5 @@ exclude: true
 
 
 
-## Eva: Type-based Guarantees for Functional Reactive Programming
-## Salvia: Secure Aggregation for Flower
+## [Eva: Type-based Guarantees for Functional Reactive Programming]({% projects\eva.markdown %})
+## [Salvia: Secure Aggregation for Flower]({% projects\salvia.markdown %})
