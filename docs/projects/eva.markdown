@@ -8,4 +8,4 @@ title: 'Eva: Type-based Guarantees for Functional Reactive Programming'
 exclude: true
 ---
 
-# TODO
+# Oh dear, Hei Li has not had time to write this project up yet! Try contacting him directly if you want to know more about this :-)

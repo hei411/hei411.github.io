@@ -22,7 +22,7 @@ title: The Heili Files
 author: Hei Li
 email: khl61@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am interested in Semantics of Programming Languages, Type Theory, Category Theory or any other fields that utilizes cool-looking symbols and notations.
+  I am interested in Semantics of Programming Languages, Type Theory, Category Theory or any other field that utilizes cool-looking symbols and notations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
