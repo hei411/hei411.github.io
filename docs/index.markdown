@@ -4,7 +4,7 @@
 
 #
 layout: home
-list_title: 'My Projects'
+title: 'My Projects'
 ---
 
 
