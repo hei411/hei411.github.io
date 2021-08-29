@@ -4,7 +4,7 @@
 
 #
 layout: post
-title: 'Tree Isomorphism Problem -- A Hashing Approach'
+title: 'Tree Isomorphism Problem - A Hashing Approach'
 
 exclude: true
 ---

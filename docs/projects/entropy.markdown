@@ -4,7 +4,7 @@
 
 #
 layout: post
-title: 'Understanding the Source Coding Theorem: A Talk on Shannon’s Entropy'
+title: 'Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy'
 
 exclude: true
 ---
