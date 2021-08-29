@@ -19,4 +19,4 @@ exclude: true
 
 -----
 
-### [Other]({% link  misc/misc.markdown %})
+### [Other]({% link  other/other.markdown %})
