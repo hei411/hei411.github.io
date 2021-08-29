@@ -5,5 +5,5 @@ exclude: true
 ---
 
 ### [Simple proofs in Isabelle](https://github.com/hei411/Isabelle)
-### [Poems]({% link  other/poems.html %})
+### [Poems]({% link  other/poems.markdown %})
 ### [My Experiences in Dating]({% link  404.html %})
