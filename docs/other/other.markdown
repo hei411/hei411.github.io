@@ -4,4 +4,4 @@ title: Other
 exclude: true
 ---
 
-# Hmmm...
+### [Test]({% link  other/test.markdown %})
