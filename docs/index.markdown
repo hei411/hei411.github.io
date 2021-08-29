@@ -9,6 +9,6 @@ exclude: true
 ---
 
 
-<!--- 
+
 ## [Eva: Type-based Guarantees for Functional Reactive Programming]({% link  projects/eva.markdown %})
-## [Salvia: Secure Aggregation for Flower]({% link  projects/salvia.markdown %})-->
+## [Salvia: Secure Aggregation for Flower]({% link  projects/salvia.markdown %})
