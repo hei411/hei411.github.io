@@ -5,7 +5,6 @@
 #
 layout: post
 title: 'Eva: Type-based Guarantees for Functional Reactive Programming'
-date:   2021-07-19 23:05:30 +0100
 exclude: true
 ---
 
