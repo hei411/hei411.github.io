@@ -7,5 +7,8 @@ layout: post
 title: 'Eva: Type-based Guarantees for Functional Reactive Programming'
 exclude: true
 ---
+Status: In Progress  
+Year: 2021  
+Supervisors: [Prof. Alan Mycroft](https://www.cl.cam.ac.uk/~am21/)
 
-# Oh dear, Hei Li has not had time to write this project up yet! Try contacting him directly if you want to know more about this :-)
+## Oh dear, Hei Li has not had time to write this project up yet! Try contacting him directly if you want to know more about this :-)
