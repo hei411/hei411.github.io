@@ -21,4 +21,4 @@ In Graph Theory, we say that a subset of vertices in a graph is a module if all 
 
 ## Results
 
-The report was submitted to the Scientific Commuttee of Hang Lung Mathematics Award. Though I was not able to win any of the grand prizes, I was awarded a certificate for the academic standard in the submitted research report.
+The report was submitted to the Scientific Commuttee of Hang Lung Mathematics Award. Though I was not able to win any of the grand prizes, I was awarded a certificate for the academic standard achieved by the submitted research report.
