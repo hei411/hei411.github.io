@@ -14,11 +14,11 @@ This is the most handsome photo of myself I could find on my phone:
 ![OMG! I'm so handsome x](/assets/me.jpg){: width="250" }
 
 
-\
+
 \
 "HeiLi managed to get everything a little bit wrong"
 
-  \- Dr John Fawcett's comments on my Networking supervision (and probably also my life)
+  \- Dr John Fawcett's comments on my Networking supervisions (and probably also my life)
 
 <!--- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
