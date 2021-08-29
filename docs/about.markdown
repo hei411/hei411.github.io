@@ -18,7 +18,7 @@ This is the most handsome photo of myself I could find on my phone:
 \
 "HeiLi managed to get everything a little bit wrong"
 
-  \- Dr John Fawcett's comments on my Networking supervisions (and probably also my life)
+  \- [Dr. John Fawcett's](https://www.chu.cam.ac.uk/people/view/john-fawcett/) comments on my Networking supervisions (and probably also my life)
 
 <!--- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
