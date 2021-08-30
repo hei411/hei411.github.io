@@ -15,7 +15,7 @@ Year: 2018
 
 ## Details
 
-This is a report submitted by Wesley Jon (now a student reading Mathematics at Emma College, Cambridge) and myself on the efficiency of determining instances of tree isomorphisms from a large number of rooted, labelled trees by a hashing algorithm. We proposed a simple hashing algorithm, and analzyed its time complexity and soundness. We also implemented it in C++,  compared its efficiency against the AHU algorithm of varying number of trees and tree sizes, and showed that the experimental data agreed with our theoretical results. We lastly suggested a number of  optimization techniques for our algorithm and some possible ideas of applications. The report and code examples can be found [here](https://github.com/hei411/Treeresearch).
+This is a report submitted by Wesley Jon (now a student reading Mathematics at Emma College, Cambridge) and myself on the efficiency of determining instances of tree isomorphisms from a large number of rooted, labelled trees by a hashing algorithm. We proposed a simple hashing algorithm, and analzyed its time complexity and soundness. We also implemented it in C++,  compared its efficiency with the AHU algorithm against test cases of varying number of trees and tree sizes, and showed that the experimental data agreed with our theoretical results. We lastly suggested a number of  optimization techniques for our algorithm and some possible ideas of applications. The report and code examples can be found [here](https://github.com/hei411/Treeresearch).
 
 ## Results
 
