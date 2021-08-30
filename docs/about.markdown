@@ -16,7 +16,7 @@ This is the most handsome photo of myself I could find on my phone:
 
 
 \
-"HeiLi managed to get everything a little bit wrong"
+"HeiLi managed to get everything a little bit wrong."
 
   \- [Dr. John Fawcett's](https://www.chu.cam.ac.uk/people/view/john-fawcett/) comments on my Networking supervisions (and probably also my life)
 
