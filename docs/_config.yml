@@ -24,7 +24,7 @@ email: khl61@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Planning documentations and documenting plans
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hei411.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hei411.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  hei411
 linkedin_username: heili
