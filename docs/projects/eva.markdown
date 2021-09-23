@@ -4,7 +4,7 @@
 
 #
 layout: post
-title: 'Eva: Type-based Guarantees for Functional Reactive Programming'
+title: 'Eva: Type Systems for Functional Reactive Programming'
 exclude: true
 ---
 Status: In Progress  
