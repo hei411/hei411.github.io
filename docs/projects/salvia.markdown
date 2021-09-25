@@ -8,8 +8,17 @@ title: 'Salvia: Secure Aggregation for Flower'
 
 exclude: true
 ---
-Status: In Progress  
+Status: Completed  
 Year: 2021  
 Supervisors: [Dr. Nicolas Lane](http://niclane.org/) and [Dr. Pedro Porto Buarque de Gusmao](https://www.cst.cam.ac.uk/people/pp524)
 
-## Oh dear, Hei Li has not had time to write this project up yet! Try contacting him directly if you want to know more about this :-)
+## Details
+This project was completed as part of my [Undergraduate Research Opportunities Programme](https://www.cst.cam.ac.uk/teaching/urop) internship at the [CaMLSys Lab](https://mlsys.cst.cam.ac.uk/). Secure Aggregation(SA) protocols in common Federated Learning(FL) frameworks have various limitations, including vulnerability to client dropouts or configuration difficulties. During the internship, I implemented (Salvia)[https://github.com/hei411/flower/tree/secagg_experimental], a Secure Aggregation feature implemented within the open-source FL framework [Flower](https://flower.dev/), that aims addresses those limitations:
+
+1. Leveraging Flower's machine learning(ML) framework-agnositc property, Salvia can be used in a FL setting where clients run different ML platforms and pipelines independently.
+2. Salvia exposes an intuitive and easy-to-use API, allowing uses to freely specify parameters to customize the SA protocol to match their deployment goals.
+3. Using [SecAgg](https://research.google/pubs/pub47246/) and [SecAgg+](https://research.google/pubs/pub49303/) as the underlying protocol, Salvia is robust against client dropouts and has low theoretical communication and computation overhead complexity.
+
+
+## Results
+Experiment results show that Salvia's performance matches the expected complexities. Future work includes improving the secret sharing functions' efficiency, and allow users to customize the weights factor and aggregation computation. A  [writeup]({% link  projects/salvia_paper.pdf %}) of the project has been sent to the [DistributedML Workshop](https://distributedml.org/) for peer review.
