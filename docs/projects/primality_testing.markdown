@@ -17,7 +17,7 @@ Year: 2019
 
 This is a report I wrote on primality testing algorithms for undirected connected graphs. 
 
-In Graph Theory, we say that a subset of vertices in a graph is a module if all members of the module have the same set of neighbors among vertices not in the set. We say a module is trivial if it is not the empty set, a singleton set or the set of all vertices. A graph is prime if all its modules are trivial. I designed and implemented a number of randomized algorithms for testing the primality of a graph and analyzed their soundness and time complexity. I also proposed an effective determinisitic algorithm that combines techniques from two randomized algorithms that runs in O(N²). The report and code can be found [here](https://github.com/hei411/HLMA).
+In Graph Theory, we say that a subset of vertices in a graph is a [module](https://en.wikipedia.org/wiki/Modular_decomposition) if all members of the module have the same set of neighbors among vertices not in the set. We say a module is trivial if it is not the empty set, a singleton set or the set of all vertices. A graph is prime if all its modules are trivial. I designed and implemented a number of randomized algorithms for testing the primality of a graph and analyzed their soundness and time complexity. I also proposed an effective determinisitic algorithm that combines techniques from two randomized algorithms that runs in O(N²). The report and code can be found [here](https://github.com/hei411/HLMA).
 
 ## Results
 
