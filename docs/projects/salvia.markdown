@@ -13,7 +13,7 @@ Year: 2021
 Supervisors: [Dr. Nicolas Lane](http://niclane.org/) and [Dr. Pedro Porto Buarque de Gusmao](https://www.cst.cam.ac.uk/people/pp524)
 
 ## Details
-This project was completed as part of my [Undergraduate Research Opportunities Programme](https://www.cst.cam.ac.uk/teaching/urop) internship at the [CaMLSys Lab](https://mlsys.cst.cam.ac.uk/). Secure Aggregation(SA) protocols in common Federated Learning(FL) frameworks have various limitations, including vulnerability to client dropouts or configuration difficulties. During the internship, I implemented [Salvia](https://github.com/hei411/flower/tree/secagg_experimental), a Secure Aggregation feature implemented within the open-source FL framework [Flower](https://flower.dev/), that aims addresses those limitations:
+This project was completed as part of the [Undergraduate Research Opportunities Programme](https://www.cst.cam.ac.uk/teaching/urop) internship at the [CaMLSys Lab](https://mlsys.cst.cam.ac.uk/). Secure Aggregation(SA) protocols in common Federated Learning(FL) frameworks have various limitations, including vulnerability to client dropouts or configuration difficulties. During the internship, I implemented [Salvia](https://github.com/hei411/flower/tree/secagg_experimental), a Secure Aggregation feature implemented within the open-source FL framework [Flower](https://flower.dev/), that aims to address those limitations:
 
 1. Leveraging Flower's machine learning(ML) framework-agnositc property, Salvia can be used in a FL setting where clients run different ML platforms and pipelines independently.
 2. Salvia exposes an intuitive and easy-to-use API, allowing uses to freely specify parameters to customize the SA protocol to match their deployment goals.
