@@ -17,7 +17,7 @@ This project was completed as part of my [Undergraduate Research Opportunities P
 
 1. Leveraging Flower's machine learning(ML) framework-agnositc property, Salvia can be used in a FL setting where clients run different ML platforms and pipelines independently.
 2. Salvia exposes an intuitive and easy-to-use API, allowing uses to freely specify parameters to customize the SA protocol to match their deployment goals.
-3. Using [SecAgg](https://research.google/pubs/pub47246/) and [SecAgg+](https://research.google/pubs/pub49303/) as the underlying protocol, Salvia is robust against client dropouts and has low theoretical communication and computation overhead complexity.
+3. Using [SecAgg](https://research.google/pubs/pub47246/) and [SecAgg+](https://research.google/pubs/pub49303/) as the underlying protocol, Salvia is robust against client dropouts and has asymptotically low theoretical communication and computation overhead.
 
 
 ## Results
