@@ -7,7 +7,7 @@ I am Li Kwing Hei (or simply known as Hei Li), a Computer Science with Mathemati
 
 I am interested in the design, implementation and verification of tools for software engineering and programming languages, through techniques from Type Theory, Mathematical Logic and Category Theory.
 
-Whenever I am free, I spend my  time coxing on the river or writing humorous poems. I am also extremely passionate about giving speeches and presentations, and I won some awards for my talks in the past.
+Whenever I am free, I spend my  time coxing on the river or writing humorous [poems]({% link  other/poems.markdown %}). I am also extremely passionate about giving speeches and presentations, and I won some [awards]({% link  projects/entropy.markdown %})) for my talks in the past.
 
 This is the most handsome photo of myself I could find on my phone:
 
