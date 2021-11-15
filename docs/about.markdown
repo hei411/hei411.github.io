@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am Li Kwing Hei (or simply known as Hei Li), a Computer Science with Mathematics student at Churchill College, University of Cambridge.  
+I am Li Kwing Hei (everyone calls me Hei Li, pronounced just as "Hailey"), a Computer Science with Mathematics student at Churchill College, University of Cambridge.  
 
 I am interested in the design, implementation and verification of tools for software engineering and programming languages, through techniques from Type Theory, Mathematical Logic and Category Theory.
 
