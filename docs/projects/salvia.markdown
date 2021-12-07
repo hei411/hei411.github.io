@@ -21,4 +21,4 @@ This project was completed as part of the [Undergraduate Research Opportunities 
 
 
 ## Results
-Experiment results show that Salvia's performance matches the expected complexities. Future work includes improving the secret sharing functions' efficiency, and enabling users to customize the weights factor and aggregation computation. A  [writeup]({% link  projects/salvia_paper.pdf %}) of the project has been accepted to appear in the [2nd International Workshop on Distributed Machine Learning](https://distributedml.org/).
+Experiment results show that Salvia's performance matches the expected complexities. Future work includes improving the secret sharing functions' efficiency, and enabling users to customize the weights factor and aggregation computation. A  [writeup](https://dl.acm.org/doi/10.1145/3488659.3493776 ) of the project has been accepted to appear in the [2nd International Workshop on Distributed Machine Learning](https://distributedml.org/).
