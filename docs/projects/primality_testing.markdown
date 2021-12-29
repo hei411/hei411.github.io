@@ -10,7 +10,7 @@ exclude: true
 ---
 Status: Completed  
 Year: 2019  
-(This was a project I did in high school, before I had any formal training in Algorithms. Therefore, this project may not be as impressive as the others...)
+<!--(This was a project I did in high school, before I had any formal training in Algorithms. Therefore, this project may not be as impressive as the others...)-->
 
 
 ## Details
