@@ -23,4 +23,4 @@ exclude: true
 
 -----
 
-#### [Other]({% link  other/other.markdown %})
+## [Other]({% link  other/other.markdown %})
