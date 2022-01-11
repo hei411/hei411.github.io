@@ -1,7 +1,7 @@
 ---
-layout: page
+#layout: page
 title: Other
-exclude: true
+#exclude: true
 ---
 
 #### [Proofs in Isabelle](https://github.com/hei411/Isabelle)

@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: post
+#layout: post
 title: 'Lima: Instrument Landing App'
 
-exclude: true
+#exclude: true
 ---
 Status: Completed  
 Year: 2021  

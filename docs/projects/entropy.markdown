@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: post
+#layout: post
 title: 'Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy'
 
-exclude: true
+#exclude: true
 ---
 Status: Completed  
 Year: 2020  

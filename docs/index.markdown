@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: page
+#layout: single
 title: 'Home'
-exclude: true
+#exclude: true
 ---
 
 ## Projects

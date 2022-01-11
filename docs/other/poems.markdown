@@ -1,7 +1,7 @@
 ---
-layout: page
+#layout: page
 title: Poems
-exclude: true
+#exclude: true
 ---
 #### M2's June Eights Regatta Race Report on Day 1
 

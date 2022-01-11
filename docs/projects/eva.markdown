@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: post
+#layout: post
 title: 'Eva: Type Systems for Functional Reactive Programming'
-exclude: true
+#exclude: true
 ---
 Status: In Progress  
 Year: 2021  

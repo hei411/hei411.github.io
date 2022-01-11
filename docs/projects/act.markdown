@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: post
+#layout: post
 title: 'The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology'
 
-exclude: true
+#exclude: true
 ---
 Status: To be presented  
 Year: 2021

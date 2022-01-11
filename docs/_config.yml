@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Heili Files
-author: Hei Li
 email: Hei[dot]Li[at]cl[dot]cam[dot]ac[dot]uk
 description: >- # this means to ignore newlines until "baseurl:"
   Planning documentations and documenting plans
@@ -29,21 +28,53 @@ url: "https://hei411.github.io" # the base hostname & protocol for your site, e.
 github_username:  hei411
 linkedin_username: heili
 
-navbar-links:
-  About Me: "about" 
+author:
+  name: "Hei Li"
+  bio: "Planning documentations and documenting plans <br><br> Email: Hei.Li at cl cam ac uk"
+  avatar: "/assets/me.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hei411"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/heili/"
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hei411"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/heili/"
+
+
   
 post_search: True
 
 #theme: minima
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-include-cache
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
 
 github: [metadata]
 # Exclude from processing.

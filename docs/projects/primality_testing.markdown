@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #
-layout: post
+#layout: post
 title: 'Simple Primality Testing Algorithms for Undirected, Connected Graphs'
 
-exclude: true
+#exclude: true
 ---
 Status: Completed  
 Year: 2019  

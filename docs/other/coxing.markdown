@@ -1,7 +1,7 @@
 ---
-layout: page
+#layout: page
 title: Coxing in Pictures
-exclude: true
+#exclude: true
 ---
 #### 2021 W1:
 
