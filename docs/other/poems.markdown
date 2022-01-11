@@ -3,7 +3,7 @@ layout: page
 title: Poems
 exclude: true
 ---
-## M2's June Eights Regatta Race Report on Day 1
+#### M2's June Eights Regatta Race Report on Day 1
 
 On our first regatta race, our crew  
 Was up against LMBC M2.  
@@ -19,20 +19,20 @@ However, our unofficial split of 1:48
 Was an improvement from yesterday’s rate,  
 And with our heads held up high, M2 Torpedo looks forward to our race the next day.
 
-## On One Side
+#### On One Side
 If they made paper  
 In the form of Möbius strip -   
 Think how much easier  
 To read what's underneath  
 Without a flip.
 
-## Recursion
+#### Recursion
 If you're searching for ways  
 To spice up your poem,  
 Just add a Latin phrase:  
 *Quod erat demonstrandum*.
 
-## Miss Dandelion
+#### Miss Dandelion
 Miss Dandelion settled near a lake -  
 A heaven she found delightsome.  
 Though while her roots of stability grew,  
