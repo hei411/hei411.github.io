@@ -33,3 +33,7 @@ gem "webrick"
 gem 'jekyll-sitemap'
 
 gem "nokogiri", ">= 1.12.5"
+
+gem "jekyll-remote-theme"
+
+gem "jekyll-include-cache"

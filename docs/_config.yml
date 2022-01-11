@@ -34,12 +34,18 @@ navbar-links:
   
 post_search: True
 
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# Build settings
+#remote_theme: mmistakes/minimal-mistakes
+#minimal_mistakes_skin: "default"
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-remote-theme
+#  - jekyll-include-cache
 
+
+github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
