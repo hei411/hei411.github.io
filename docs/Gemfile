@@ -37,3 +37,5 @@ gem "nokogiri", ">= 1.12.5"
 gem "jekyll-remote-theme"
 
 gem "jekyll-include-cache"
+
+gem "minimal-mistakes-jekyll"
