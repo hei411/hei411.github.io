@@ -36,7 +36,7 @@ post_search: True
 
 #theme: minima
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
