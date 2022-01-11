@@ -1,7 +1,7 @@
 ---
 #layout: single
 #title: About
-#permalink: /about/
+permalink: /about/
 ---
 I am Li Kwing Hei (everyone calls me Hei Li, pronounced as "Hailey"), a third-year Computer Science with Mathematics student at Churchill College, University of Cambridge.  
 
