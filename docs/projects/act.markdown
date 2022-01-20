@@ -8,7 +8,7 @@ title: 'The Asynchronous Computability Theorem - A Marriage Between Distributed 
 
 #exclude: true
 ---
-Status: Completed
+Status: Completed  
 Year: 2022
 
 ## Abstract 
@@ -21,4 +21,4 @@ At the end of my second year of my undergrads, I lost three of my teeth after fa
 
 ## Results 
 
-To quote Prof. Marcelo [Fiore](https://www.cl.cam.ac.uk/~mpf23/), "Excellent talk!"
+To quote [Prof. Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/), "Excellent talk!"
