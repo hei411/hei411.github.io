@@ -8,7 +8,17 @@ title: 'The Asynchronous Computability Theorem - A Marriage Between Distributed 
 
 #exclude: true
 ---
-Status: To be presented  
-Year: 2021
+Status: Completed
+Year: 2022
 
-## Oh dear, Hei Li has not had time to write this project up yet! Try contacting him directly if you want to know more about this :-)
+## Abstract 
+Consensus cannot be achieved in an asynchronous wait-free model, but how could we prove this result? In this talk, we will explore a surprising connection between protocols for distributed systems and concepts in algebraic topology. This provides us with a concise mathematical framework unifying many classical concurrency models, enabling us to reason about concurrency via static combinatorial structures. For this talk, we will use this connection to prove that consensus is impossible in an asynchronous wait-free model.
+
+
+
+## Context
+At the end of my second year of my undergrads, I lost three of my teeth after fainting in the middle of the streets without warning. After enduring a horrible half a year, I finally received my implants in 2021 December! And as everyone knows, there is no better way to celebrate the occassion of getting one's teeth back than to actually use them...thus the [talk](https://talks.cam.ac.uk/talk/index/168506). The slides for the talk can be found [here]({% link  projects/docs/act_slides.pdf %}).
+
+## Results 
+
+To quote Prof. Marcelo [Fiore](https://www.cl.cam.ac.uk/~mpf23/), "Excellent talk!"
