@@ -15,6 +15,7 @@ title: 'Home'
 #### [Lima: Instrument Landing App]({% link  projects/lima.markdown %})
 #### [Simple Primality Testing Algorithms for Undirected, Connected Graphs]({% link  projects/primality_testing.markdown %})
 #### [Tree Isomorphism Problem - A Hashing Approach]({% link  projects/tree_hash.markdown %})
+#### [Regiomontanus' Angle Maximization - A Classical Construction Approach]({% link  projects/regiomontanus.markdown %})
 
 
 ## Talks 
