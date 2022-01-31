@@ -3,7 +3,7 @@
 #title: About
 permalink: /about/
 ---
-I am Li Kwing Hei (everyone calls me Hei Li, pronounced as "Hailey"), a third-year Computer Science with Mathematics student at Churchill College, University of Cambridge.  
+I am Li Kwing Hei (everyone calls me Hei Li, pronounced as "Hailey"), a third-year Computer Science with Mathematics student at Churchill College, University of Cambridge.  I am also currently a visitor at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), (which is really crazy, I know xd).
 
 I am interested in the design, implementation and verification of tools for software engineering and programming languages, through techniques from type theory, mathematical logic and category theory. (Any branch of theoretical CS that involves heavy use of weird symbols  never fails to excite me.) I also spend a fair amount of time thinking about concurrent computing, and protocols for distributed systems.
 
