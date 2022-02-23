@@ -3,6 +3,7 @@
 ---
 $global-font-family: Times,serif ;
 $header-font-family: Times,serif ;
+$sans-serif : serif, Times;
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
