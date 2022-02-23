@@ -1,8 +1,8 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-$global-font-family: Times !default;
-$header-font-family: Times !default;
+$global-font-family: Times ;
+$header-font-family: Times ;
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
