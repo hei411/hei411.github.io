@@ -32,10 +32,12 @@ gem "webrick"
 
 gem 'jekyll-sitemap'
 
-gem "nokogiri", ">= 1.12.5"
+gem "nokogiri", ">= 1.13.2"
 
 gem "jekyll-remote-theme"
 
 gem "jekyll-include-cache"
 
 gem "minimal-mistakes-jekyll"
+
+gem "commonmarker", ">= 0.23.4"
