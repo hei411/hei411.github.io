@@ -3,6 +3,10 @@
 title: Coxing in Pictures
 #exclude: true
 ---
+#### 2022 W1:
+
+![2022 W1](/coxingphotos/2022W1.jpg){: width="700" }
+
 #### 2021 W1:
 
 ![2021 W1](/coxingphotos/2021W1.jpg){: width="700" }
