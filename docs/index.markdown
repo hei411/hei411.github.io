@@ -11,7 +11,7 @@ title: 'Home'
 ## Projects
 
 #### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
-#### [Salvia: Secure Aggregation for Flower]({% link  projects/salvia.markdown %})
+#### [Salvia: Secure Aggregation for Federated Learning in Flower]({% link  projects/salvia.markdown %})
 #### [Lima: Instrument Landing App]({% link  projects/lima.markdown %})
 #### [Simple Primality Testing Algorithms for Undirected, Connected Graphs]({% link  projects/primality_testing.markdown %})
 #### [Tree Isomorphism Problem - A Hashing Approach]({% link  projects/tree_hash.markdown %})

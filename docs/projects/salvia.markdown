@@ -4,7 +4,7 @@
 
 #
 #layout: post
-title: 'Salvia: Secure Aggregation for Flower'
+title: 'Salvia: Secure Aggregation for Federated Learning in Flower'
 
 #exclude: true
 ---
