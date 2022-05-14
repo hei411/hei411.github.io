@@ -7,7 +7,7 @@
 title: 'Eva: Type Systems for Functional Reactive Programming'
 #exclude: true
 ---
-Status: Completed 
+Status: Completed  
 Year: 2021  
 Supervisor: [Prof. Alan Mycroft](https://www.cl.cam.ac.uk/~am21/)
 
