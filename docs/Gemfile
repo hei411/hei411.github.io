@@ -32,7 +32,7 @@ gem "webrick"
 
 gem 'jekyll-sitemap'
 
-gem "nokogiri", ">= 1.13.2"
+gem "nokogiri", ">= 1.13.5"
 
 gem "jekyll-remote-theme"
 
