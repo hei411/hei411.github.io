@@ -31,7 +31,7 @@ linkedin_username: heili
 author:
   name: "Hei Li"
   bio: "Planning documentations and documenting plans <br><br> Email: Hei.Li at cl cam ac uk"
-  avatar: "/assets/me3.jpg"
+  avatar: "/assets/me.jpg"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
