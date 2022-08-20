@@ -19,6 +19,8 @@ Consensus cannot be achieved in an asynchronous wait-free model, but how could w
 ## Context
 In the second year of my undergrads, I shattered three of my teeth after fainting in the middle of the streets without warning. After enduring a horrible half a year, I finally received my implants in 2021 December! And as everyone knows, there is no better way to celebrate the occassion of getting one's teeth back than to actually use them...thus the [talk](https://talks.cam.ac.uk/talk/index/168506). The slides for the talk can be found [here]({% link  projects/docs/act_slides.pdf %}). The talk was recorded and uploaded to [Youtube](https://www.youtube.com/watch?v=EhpI77xgi_U&ab_channel=ChurchillCompSciTalks).
 
+<!---
 ## Results 
 
 To quote [Prof. Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/), "Excellent talk!"
+-->
