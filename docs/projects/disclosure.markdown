@@ -14,3 +14,6 @@ Supervisors: [Prof. Derek Dreyer](https://people.mpi-sws.org/~dreyer/) and [Mr. 
 
 ## Details
 OH NOOO! Hei Li has not had time to write this project up yet :'(
+
+-------------------
+A [gem]({% link  projects/docs/closure_message.jpg %}) I sent when I was still a young undergrad... 
