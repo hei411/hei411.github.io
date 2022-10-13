@@ -8,7 +8,7 @@ title: 'Formalizing May's Theorem'
 
 #exclude: true
 ---
-Status: In Progress  
+Status: Completed
 Year: 2022
 
 ## Details
