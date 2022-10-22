@@ -9,7 +9,7 @@ Before that, I was a Computer Science with Mathematics undergraduate at Churchil
 
 I am interested in the design, implementation and verification of tools for software engineering and programming languages, through techniques from type theory, mathematical logic and category theory. (Any branch of theoretical CS that involves heavy use of weird symbols  never fails to excite me.) I also spend a fair amount of time thinking about concurrent computing, and protocols for distributed systems.
 
-My favourite mammal is the donkey. 
+My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
 
 <!--- 
 Whenever I am free, I spend my  time [coxing]({%link other/coxing.markdown %}) on the river or writing humorous [poems]({% link  other/poems.markdown %}). I am also extremely passionate about giving speeches and presentations, and I won some [awards]({% link  projects/entropy.markdown %}) for my talks in the past.
