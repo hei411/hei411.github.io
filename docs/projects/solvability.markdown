@@ -4,7 +4,7 @@
 
 #
 #layout: post
-title: 'Wait-Free Task Solvability for Asynchronous Distributed Models'
+title: 'Wait-Free Task Solvability of Asynchronous Distributed Models'
 
 #exclude: true
 ---
