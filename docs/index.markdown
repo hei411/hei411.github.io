@@ -10,6 +10,7 @@ title: 'Home'
 
 ## Projects
 
+#### [Wait-Free Task Solvability for Asynchronous Distributed Models]({% link projects/solvability.markdown %})
 #### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %})
 #### [Formalizing May's Theorem]({% link projects/may.markdown %})
 #### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
