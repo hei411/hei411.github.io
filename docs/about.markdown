@@ -7,7 +7,7 @@ I am Li Kwing Hei (everyone calls me Hei Li, pronounced as "Hailey"), a MPhil in
 
 Before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge (I was  one of the last since this combination was not an option anymore after my cohort!). In the past, I had amazing research experiences at the CaMLSys Lab and MPI-SWS.
 
-I am interested in the design, implementation, and verification of tools for software engineering and programming languages, through techniques from type theory, mathematical logic, and category theory. I also spend a fair amount of time thinking about concurrent computing and protocols for distributed systems.
+I am interested in the design, implementation, and verification of tools for software engineering and programming languages, through techniques from type theory, mathematical logic, and category theory. I also spend a fair amount of time thinking about concurrent computing, protocols for distributed systems, and donkeys.
 
 My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
 
