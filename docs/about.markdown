@@ -3,7 +3,7 @@
 #title: About
 permalink: /about/
 ---
-I am Li Kwing Hei (everyone calls me Hei Li, pronounced as "Hailey"), a MPhil in Advanced Computer Science student at King's College, University of Cambridge, and I am currently funded by the Cambridge Trust & King’s College TPP Alan Turing Scholarship. 
+I am Li Kwing Hei (everyone calls me Heili, pronounced as "Hailey"), a MPhil in Advanced Computer Science student at King's College, University of Cambridge, and I am currently funded by the Cambridge Trust & King’s College TPP Alan Turing Scholarship. 
 
 Before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge (I was  one of the last since this combination was not an option anymore after my cohort!). In the past, I had amazing research experiences at the CaMLSys Lab and MPI-SWS.
 
