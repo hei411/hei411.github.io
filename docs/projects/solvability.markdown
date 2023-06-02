@@ -8,7 +8,7 @@ title: 'Wait-Free Task Solvability of Asynchronous Distributed Models'
 
 #exclude: true
 ---
-Status: In Progress  
+Status: Completed
 Year: 2022  
 Supervisors: [Prof. Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/)
 
