@@ -8,6 +8,7 @@ title: Other
 
 [comment]: <> (#### [Coxing in Pictures]({% link  other/coxing.markdown %}))
 #### [CV (Last updated: June 2023)]({% link  other/CV.pdf %})
+#### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
 
 [comment]: <> (#### [Proofs in Coq](https://github.com/hei411/software_foundations_coq))
 [comment]: <> (#### [Proofs in Isabelle](https://github.com/hei411/Isabelle))
