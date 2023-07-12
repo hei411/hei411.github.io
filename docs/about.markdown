@@ -3,11 +3,11 @@
 #title: About
 permalink: /about/
 ---
-I am Kwing Hei "Heili"(pronounced as "Hailey") Li, a MPhil in Advanced Computer Science student at King's College, University of Cambridge, and I am currently funded by the Cambridge Trust & King’s College TPP Alan Turing Scholarship. 
+I am Kwing Hei "Heili"(pronounced as "Hailey") Li, an incoming PhD student at Aarhus University under the supervision of Lars Birkedal.
 
-Before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge (I was  one of the last since this combination was not an option anymore after my cohort!). In the past, I had amazing research experiences at the CaMLSys Lab and MPI-SWS.
+Before that, I was a MPhil in Advanced Computer Science student at King's College, University of Cambridge. Before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge (I was  one of the last since this combination was not an option anymore after my cohort!). In the past, I had amazing research experiences at the CaMLSys Lab and MPI-SWS.
 
-I am interested in the design, implementation, and verification of tools for software engineering and programming languages, through techniques from type theory, mathematical logic, and category theory. I also spend a fair amount of time thinking about concurrent computing, protocols for distributed systems, and donkeys.
+I am interested in the design, implementation, and verification of tools for software engineering and programming languages, through techniques from type theory, program logic, and category theory. I also spend a fair amount of time thinking about formal verification, protocols for distributed systems, and donkeys.
 
 My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
 
