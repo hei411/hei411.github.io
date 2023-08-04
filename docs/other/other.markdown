@@ -7,7 +7,7 @@ title: Other stuff
 
 #### [Steffi](https://github.com/hei411/Steffi)
 #### Annabelle (in progress)
-#### [Best seats in cinema]({% link  other/mathematiko.pdf %})
+#### [How to find the best seats in the cinema]({% link  other/mathematiko.pdf %})
 
 [comment]: <> (#### [Coxing in Pictures]({% link  other/coxing.markdown %}))
 [comment]: <> (#### [CV (Last updated: July 2023)]({% link  other/CV.pdf %}))
