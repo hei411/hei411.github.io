@@ -22,6 +22,7 @@ title: 'Home'
 [comment]: <> (#### [Tree Isomorphism Problem - A Hashing Approach]({% link  projects/tree_hash.markdown %}))
 [comment]: <> (#### [Regiomontanus' Angle Maximization - A Classical Construction Approach]({% link  projects/regiomontanus.markdown %}))
 
+------
 
 ## Talks 
 #### [The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology]({% link  projects/act.markdown %})
@@ -29,4 +30,8 @@ title: 'Home'
 
 -----
 
-## [Other]({% link  other/other.markdown %})
+## Misc 
+
+#### [CV (Last updated: July 2023)]({% link  other/CV.pdf %})
+#### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
+#### [Other stuff]({% link  other/other.markdown %})
