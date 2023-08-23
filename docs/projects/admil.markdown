@@ -16,4 +16,4 @@ This report is a follow-up discussion about the results obtained in my MPhil rep
 
 In my MPhil report, I proved the Fundamental Theorem of Asynchronous Distributed Models, a novel result establishing the equivalence in solvability power of two theoretical distributed models. However, this  proof does not hold in intuitionistic logic, as one intermediate proposition relies on the law of excluded middle and Kőnig's lemma, meaning it only holds in classical logic.
 
-In this [report]({% link  projects/docs/admil.pdf %}), I show that the aforementioned proposition can indeed by proved constructively using bar induction. An immediate (and satisfying) consequence is that the Fundamental Theorem thus holds in intuitionistic logic.
+In this [report]({% link  projects/docs/admil.pdf %}), I show that the aforementioned proposition can indeed be proved constructively using bar induction. An immediate (and satisfying) consequence is that the Fundamental Theorem thus holds in intuitionistic logic.
