@@ -12,7 +12,7 @@ Status: Completed
 Year: 2023
 
 ## Description
-This report is a sequel to the results obtained in my MPhil report, which you can find [here]({% link  projects/solvability.markdown %}).
+This report is a follow-up discussion about the results obtained in my MPhil report, which you can find [here]({% link  projects/solvability.markdown %}).
 
 In my MPhil report, I proved the Fundamental Theorem of Asynchronous Distributed Models, a novel result establishing the equivalence in solvability power of two theoretical distributed models. However, this  proof does not hold in intuitionistic logic, as one intermediate proposition relies on the law of excluded middle and Kőnig's lemma, which only holds in classical logic.
 
