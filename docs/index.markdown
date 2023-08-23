@@ -10,6 +10,7 @@ title: 'Home'
 
 ## Projects
 
+#### [The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic]({% link projects/admil.markdown %})
 #### [Wait-Free Task Solvability of Asynchronous Distributed Models]({% link projects/solvability.markdown %})
 #### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %})
 #### [Formalizing May's Theorem]({% link projects/may.markdown %})
