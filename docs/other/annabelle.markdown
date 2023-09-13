@@ -5,11 +5,9 @@
 #
 #layout: post
 title: 'Annabelle (a short story)'
-
 #exclude: true
 ---
-
-<h2 style="text-align: center;">Prelude</h2>
+<h3 style="text-align: center;">Prelude</h3>
 The year was 2020. 
 
 For my first writing assigment that academic year, the task was to *write a short story about "flight" with a twist ending*. After much thinking (of roughly 10 seconds), I drafted out an awesome writing plan, and proceeded to write a kick-ass story describing a plane flight, where a hijack occurred at the very end. Pleased with myself, I believed it was a really creative piece of work. Surely, no one could have seen THAT coming.
