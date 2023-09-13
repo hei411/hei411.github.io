@@ -6,7 +6,7 @@ title: Other stuff
 
 
 #### [Steffi](https://github.com/hei411/Steffi)
-#### Annabelle (in progress)
+#### [Annabelle (a short story)]({% link  other/annabelle.markdown %}) 
 #### [How to find the best seats in the cinema]({% link  other/mathematiko.pdf %})
 
 [comment]: <> (#### [Coxing in Pictures]({% link  other/coxing.markdown %}))

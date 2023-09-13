@@ -39,6 +39,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heili/"
+    - label: "StackExchange"
+     icon: "fab fa-stack-exchange"
+      url: "https://puzzling.stackexchange.com/users/85635/catprogrammer?tab=profile"
 
 atom_feed:
   hide: true
