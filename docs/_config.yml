@@ -40,7 +40,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heili/"
     - label: "StackExchange"
-      icon: "fab fa-stack-exchange"
+      icon: "fab fa-fw fa-stack-exchange"
       url: "https://puzzling.stackexchange.com/users/85635/catprogrammer?tab=profile"
 
 atom_feed:
@@ -55,7 +55,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heili/"
     - label: "StackExchange"
-      icon: "fab fa-stack-exchange"
+      icon: "fab fa-fw fa-stack-exchange"
       url: "https://puzzling.stackexchange.com/users/85635/catprogrammer?tab=profile"
 
 
