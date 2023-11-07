@@ -16,7 +16,7 @@ Whenever I am free, I spend my  time [coxing]({%link other/coxing.markdown %}) o
 -->
 
 [^1]: Pronounced as "Hailey".
-[^2]:  I was one of the last since this combination was not an option anymore after my cohort!
+[^2]:  I was one of the last people who did this combination since this was not an option anymore after my cohort!
 
 --------------
 
