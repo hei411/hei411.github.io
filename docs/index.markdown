@@ -7,15 +7,17 @@
 title: 'Home'
 #exclude: true
 ---
+I'm Heili. I can run down stairs really fast.
+Click [here]({% link about.markdown %}) for more info about me.
 
 ## Projects
 
-#### [The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic]({% link projects/admil.markdown %})
-#### [Wait-Free Task Solvability of Asynchronous Distributed Models]({% link projects/solvability.markdown %})
+##### [The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic]({% link projects/admil.markdown %})
+##### [Wait-Free Task Solvability of Asynchronous Distributed Models]({% link projects/solvability.markdown %})
 #### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %})
-#### [Formalizing May's Theorem]({% link projects/may.markdown %})
-#### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
-#### [Salvia: Secure Aggregation for Federated Learning in Flower]({% link  projects/salvia.markdown %})
+##### [Formalizing May's Theorem]({% link projects/may.markdown %})
+##### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
+##### [Salvia: Secure Aggregation for Federated Learning in Flower]({% link  projects/salvia.markdown %})
 
 
 [comment]: <> (#### [Lima: Instrument Landing App]({% link  projects/lima.markdown %}))
@@ -26,13 +28,13 @@ title: 'Home'
 ------
 
 ## Talks 
-#### [The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology]({% link  projects/act.markdown %})
-#### [Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy]({% link  projects/entropy.markdown %})
+##### [The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology]({% link  projects/act.markdown %})
+##### [Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy]({% link  projects/entropy.markdown %})
 
 -----
 
 ## Misc 
 
-#### [CV (Last updated: August 2023)]({% link  other/CV.pdf %})
-#### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
-#### [Other stuff]({% link  other/other.markdown %})
+##### [CV (Last updated: August 2023)]({% link  other/CV.pdf %})
+##### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
+##### [Other stuff]({% link  other/other.markdown %})

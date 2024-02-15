@@ -4,8 +4,7 @@
 
 #
 #layout: post
-title: 'Formalizing May's Theorem'
-
+title: "Formalizing May's Theorem"
 #exclude: true
 ---
 Status: Completed  

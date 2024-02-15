@@ -1,5 +1,5 @@
 ---
-title: 'Regiomontanus' Angle Maximization - A Classical Construction Approach'
+title: "Regiomontanus' Angle Maximization - A Classical Construction Approach"
 #exclude: true
 ---
 Status: Completed

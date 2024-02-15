@@ -8,7 +8,7 @@ title: 'DisClosure: Decentralized Semantics and Verification for Languages with 
 
 #exclude: true
 ---
-Status: In Progress  
+Status: Completed  
 Year: 2022  
 Supervisors: [Prof. Derek Dreyer](https://people.mpi-sws.org/~dreyer/) and [Mr. Michael Sammler](https://people.mpi-sws.org/~msammler/)
 
