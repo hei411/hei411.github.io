@@ -11,6 +11,7 @@ I am interested in the design, implementation, and verification of tools for sof
 
 My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
 
+ [Back to home page]({% link index.markdown %}) 
 <!--- 
 Whenever I am free, I spend my  time [coxing]({%link other/coxing.markdown %}) on the river or writing humorous [poems]({% link  other/poems.markdown %}). I am also extremely passionate about giving speeches and presentations, and I won some [awards]({% link  projects/entropy.markdown %}) for my talks in the past.
 -->
