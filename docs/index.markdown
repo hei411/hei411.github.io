@@ -14,11 +14,11 @@ Click [here]({% link about.markdown %}) for more info about me.
 
 ##### [The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic]({% link projects/admil.markdown %})
 ##### [Wait-Free Task Solvability of Asynchronous Distributed Models]({% link projects/solvability.markdown %})
-#### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %})
 ##### [Formalizing May's Theorem]({% link projects/may.markdown %})
 ##### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
 ##### [Salvia: Secure Aggregation for Federated Learning in Flower]({% link  projects/salvia.markdown %})
 
+[comment]: <> (##### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %}))
 
 [comment]: <> (#### [Lima: Instrument Landing App]({% link  projects/lima.markdown %}))
 [comment]: <> (#### [Simple Primality Testing Algorithms for Undirected, Connected Graphs]({% link  projects/primality_testing.markdown %}))
