@@ -10,26 +10,62 @@ title: 'Home'
 I'm Heili. I can run down stairs really fast.
 Click [here]({% link about.markdown %}) for more info about me.
 
-## Projects
+## Preprints 
+**Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
+Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
+*Submitted, 2024*  
+([Arxiv](https://arxiv.org/abs/2405.20083))
 
-##### [The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic]({% link projects/admil.markdown %})
-##### [Wait-Free Task Solvability of Asynchronous Distributed Models]({% link projects/solvability.markdown %})
-##### [Formalizing May's Theorem]({% link projects/may.markdown %})
-##### [Eva: Type Systems for Functional Reactive Programming]({% link  projects/eva.markdown %})
-##### [Salvia: Secure Aggregation for Federated Learning in Flower]({% link  projects/salvia.markdown %})
+**Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs
+**  
+Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal    
+*Submitted, 2024*  
+([Arxiv](https://arxiv.org/abs/2404.14223))
 
-[comment]: <> (##### [DisClosure: Decentralized Semantics and Verification for Languages with Closures]({% link projects/disclosure.markdown %}))
+## Publications 
+**Secure Aggregation for Federated Learning in Flower**  
+*Kwing Hei Li*, Pedro Porto Buarque de Gusmão, Daniel J. Beutel, Nicholas D. Lane  
+*International Workshop on Distributed Machine Learning 2021*  
+([PDF](pdf/salvia.pdf))
+ 
 
-[comment]: <> (#### [Lima: Instrument Landing App]({% link  projects/lima.markdown %}))
-[comment]: <> (#### [Simple Primality Testing Algorithms for Undirected, Connected Graphs]({% link  projects/primality_testing.markdown %}))
-[comment]: <> (#### [Tree Isomorphism Problem - A Hashing Approach]({% link  projects/tree_hash.markdown %}))
-[comment]: <> (#### [Regiomontanus' Angle Maximization - A Classical Construction Approach]({% link  projects/regiomontanus.markdown %}))
+## Unpublished Notes
+**The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic**  
+*Kwing Hei Li*  
+*2023*  
+([PDF](pdf/admil.pdf))
+
+**Wait-Free Task Solvability of Asynchronous Distributed Models**  
+*Kwing Hei Li*  
+*Masters thesis 2023*  
+([PDF](pdf/adm.pdf))
+
+**Formalizing May's Theorem**  
+*Kwing Hei Li*  
+*2022*  
+([PDF](pdf/may.pdf))
+
+**Type Systems for Functional Reactive Programming**  
+*Kwing Hei Li*  
+*Bachelor thesis 2023*  
+([PDF](pdf/eva.pdf))
+
+
+
 
 ------
 
 ## Talks 
-##### [The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology]({% link  projects/act.markdown %})
-##### [Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy]({% link  projects/entropy.markdown %})
+**The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  
+*Kwing Hei Li*  
+*Churchill CompSci Talks 2022*  
+([Slides](pdf/act_slides.pdf), [Recording](https://www.youtube.com/watch?v=EhpI77xgi_U&ab_channel=ChurchillCompSciTalks))  
+
+**Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**
+*Kwing Hei Li*  
+*Churchill CompSci Talks 2021*  
+([Slides](pdf/entropy_slides.pdf))  
+<mark>Audience Favourite Talk Prize</mark>
 
 -----
 

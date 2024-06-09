@@ -39,6 +39,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heili/"
+    - label: "Blogger"
+      icon: "fab fa-fw fa-blogger"
+      url: "https://tostirthesoup.blogspot.com/"
    # - label: "StackExchange"
    #  icon: "fab fa-fw fa-stack-exchange"
    #   url: "https://puzzling.stackexchange.com/users/85635/catprogrammer?tab=profile"
@@ -54,6 +57,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heili/"
+    - label: "Blogger"
+      icon: "fab fa-fw fa-blogger"
+      url: "https://tostirthesoup.blogspot.com/"
   #  - label: "StackExchange"
   #    icon: "fab fa-fw fa-stack-exchange"
   #    url: "https://puzzling.stackexchange.com/users/85635/catprogrammer?tab=profile"
@@ -84,6 +90,8 @@ defaults:
       author_profile: true
 
 github: [metadata]
+exclude:
+    - archive/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
