@@ -16,8 +16,7 @@ Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen,
 *Submitted, 2024*  
 ([Arxiv](https://arxiv.org/abs/2405.20083))
 
-**Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs
-**  
+**Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
 Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal    
 *Submitted, 2024*  
 ([Arxiv](https://arxiv.org/abs/2404.14223))
@@ -37,7 +36,7 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 **Wait-Free Task Solvability of Asynchronous Distributed Models**  
 *Kwing Hei Li*  
-*Masters thesis 2023*  
+*Masters thesis, 2023*  
 ([PDF](pdf/adm.pdf))
 
 **Formalizing May's Theorem**  
@@ -47,7 +46,7 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 **Type Systems for Functional Reactive Programming**  
 *Kwing Hei Li*  
-*Bachelor thesis 2023*  
+*Bachelor thesis, 2023*  
 ([PDF](pdf/eva.pdf))
 
 
