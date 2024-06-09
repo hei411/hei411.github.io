@@ -11,9 +11,10 @@ I am interested in the design, implementation, and verification of tools for sof
 
 My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
 
- [Back to home page]({% link index.markdown %}) 
+[Back to home page]({% link index.markdown %}) 
+
 [^1]: Pronounced as "Hailey".
-[^2]:  I was one of the last people who did this combination since this was not an option anymore after my cohort!
+[^2]: I was one of the last people who did this combination since this was not an option anymore after my cohort!
 
 --------------
 
