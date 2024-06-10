@@ -46,7 +46,7 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 **Type Systems for Functional Reactive Programming**  
 *Kwing Hei Li*  
-*Bachelor thesis, 2023*  
+*Bachelor thesis, 2022*  
 ([PDF](pdf/eva.pdf))
 
 
