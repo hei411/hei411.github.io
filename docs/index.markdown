@@ -60,7 +60,7 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 *Churchill CompSci Talks 2022*  
 ([Slides](pdf/act_slides.pdf), [Recording](https://www.youtube.com/watch?v=EhpI77xgi_U&ab_channel=ChurchillCompSciTalks))  
 
-**Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**
+**Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**  
 *Kwing Hei Li*  
 *Churchill CompSci Talks 2021*  
 ([Slides](pdf/entropy_slides.pdf))  
