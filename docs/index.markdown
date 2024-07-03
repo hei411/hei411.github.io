@@ -8,7 +8,11 @@ title: 'Home'
 #exclude: true
 ---
 I'm Heili. I can run down stairs really fast.
+
 Click [here]({% link about.markdown %}) for more info about me.
+
+
+I sometimes write on my [blog](https://tostirthesoup.blogspot.com/)
 
 ## Preprints 
 **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
@@ -70,7 +74,6 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 ## Misc 
 
-##### [Blog](https://tostirthesoup.blogspot.com/)
 ##### [CV (Last updated: August 2023)]({% link  other/CV.pdf %})
 ##### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
 ##### [Other stuff]({% link  other/other.markdown %})
