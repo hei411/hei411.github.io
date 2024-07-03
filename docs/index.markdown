@@ -12,7 +12,7 @@ I'm Heili. I can run down stairs really fast.
 Click [here]({% link about.markdown %}) for more info about me.
 
 
-I sometimes write on my [blog](https://tostirthesoup.blogspot.com/)
+I sometimes write on my [blog](https://tostirthesoup.blogspot.com/).
 
 ## Preprints 
 **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
