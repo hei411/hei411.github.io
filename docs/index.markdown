@@ -15,6 +15,11 @@ Click [here]({% link about.markdown %}) for more info about me.
 I sometimes write on my [blog](https://tostirthesoup.blogspot.com/).
 
 ## Preprints 
+**Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
+Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
+*Submitted, 2024*  
+([Arxiv](https://arxiv.org/abs/2407.14107))
+
 **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
 Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
 *Submitted, 2024*  
