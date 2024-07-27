@@ -16,7 +16,7 @@ I sometimes write on my [blog](https://tostirthesoup.blogspot.com/).
 
 ## Preprints 
 **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
-Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
+Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
 *Submitted, 2024*  
 ([Arxiv](https://arxiv.org/abs/2407.14107))
 
