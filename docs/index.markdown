@@ -30,7 +30,7 @@ Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen,
 **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
 Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal    
 *International Conference on Functional Programming 2024*  
-([PDF](pdf/eris.pdf))
+([PDF](pdf/eris.pdf))  
 <mark>Distinguished Paper Award</mark>
 
 **Secure Aggregation for Federated Learning in Flower**  
