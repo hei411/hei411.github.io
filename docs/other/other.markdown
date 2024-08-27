@@ -10,7 +10,6 @@ title: Other stuff
 #### [How to find the best seats in the cinema]({% link  other/mathematiko.pdf %})
 [comment]: <> (#### [Annabelle (a short story)]({% link  other/annabelle.markdown %}) )
 [comment]: <> (#### [Coxing in Pictures]({% link  other/coxing.markdown %}))
-[comment]: <> (#### [CV (Last updated: July 2023)]({% link  other/CV.pdf %}))
 [comment]: <> (#### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %}))
 
 [comment]: <> (#### [Proofs in Coq](https://github.com/hei411/software_foundations_coq))
