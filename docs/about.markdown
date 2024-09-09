@@ -3,15 +3,18 @@
 #title: About
 permalink: /about/
 ---
-I am Kwing Hei "Heili"[^1] Li, a PhD student at Aarhus University under the supervision of Lars Birkedal.
+I am Kwing Hei "Heili" Li, a PhD Student in the [Logics and Semantics group](https://logsem.github.io/) at [Aarhus University](https://cs.au.dk/). My supervisor is [Lars Birkedal](https://cs.au.dk/~birke/).  
 
-Before that, I was a MPhil in Advanced Computer Science student at King's College, University of Cambridge. Before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge[^2]. 
+I develop higher-order separation logics to reason about probabilistic programs, especially those that might involve concurrency. Most of my research is formalized in the [Coq](https://coq.inria.fr/) proof assistant under the [Iris](https://iris-project.org/index.html) logic framework. The only situations when I have to resort to pen-and-paper proofs are the times when I accidentally left my laptop at home; I am intelligent enough to not trust my own calculations and God forbid I attempt to read my own handwriting.   
 
-I am interested in the design, implementation, and verification of tools for software engineering and programming languages, through techniques from type theory, program logic, and category theory. I also spend a fair amount of time thinking about formal verification, protocols for distributed systems, and donkeys.
+Before that, I was an MPhil in Advanced Computer Science student at King's College, University of Cambridge. And before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge.  
 
-My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey). 
+My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey).    
 
 [BACK to home page]({% link index.markdown %}) 
+
+
+<!--- 
 
 [^1]: Pronounced as "Hailey".
 [^2]: I was one of the last people who did this combination since this was not an option anymore after my cohort!
@@ -22,7 +25,6 @@ My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey).
 
   \- Feedback on my supervisions for Computer Networking
 
-<!--- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
