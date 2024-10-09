@@ -19,19 +19,21 @@ Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Greg
 *Submitted, 2024*  
 ([Arxiv](https://arxiv.org/abs/2407.14107))
 
-**Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
-Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
-*Submitted, 2024*  
-([Arxiv](https://arxiv.org/abs/2405.20083))
 
 
 
 ## Publications 
+**Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
+Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
+*Conference on Object-Oriented Programming, Systems, Languages, and Applications 2024*  
+([PDF](pdf/tachis.pdf))
+
+
 **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
-Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal    
+Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
 *International Conference on Functional Programming 2024*  
 ([PDF](pdf/eris.pdf))  
-<mark>Distinguished Paper Award</mark>
+<mark>Distinguished Paper Award</mark>  
 
 **Secure Aggregation for Federated Learning in Flower**  
 *Kwing Hei Li*, Pedro Porto Buarque de Gusmão, Daniel J. Beutel, Nicholas D. Lane  
