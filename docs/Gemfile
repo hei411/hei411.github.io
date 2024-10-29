@@ -1,4 +1,6 @@
 source "https://rubygems.org"
+# bundle install
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -41,7 +43,7 @@ gem "minimal-mistakes-jekyll"
 
 gem "tzinfo", ">= 1.2.10"
 
-gem "rexml", ">= 3.3.6"
+gem "rexml", ">= 3.3.9"
 
 
 gem "commonmarker", ">= 0.23.10"
