@@ -69,7 +69,7 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 **How to Deal with Rejections - Separation Logics for Probability**  
 *Kwing Hei Li*  
 *LogSem Seminar 2024*  
-([Slides](pdf/logsem_slides2024.pdf)  
+([Slides](pdf/logsem_slides2024.pdf))  
 
 
 **The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  
