@@ -66,6 +66,12 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 
 ## Talks 
+**Higher-Order Separation Logic for Probabilistic Programs**  
+*Kwing Hei Li*  
+*CS Research Evaluation 2024*  
+([Slides](pdf/cs_eval_slides.pdf))  
+
+
 **How to Deal with Rejections - Separation Logics for Probability**  
 *Kwing Hei Li*  
 *LogSem Seminar 2024*  
