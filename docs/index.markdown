@@ -14,19 +14,19 @@ Click [here]({% link about.markdown %}) for more info about me.
 
 
 ## Preprints 
-**Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
-Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
-*Submitted, 2024*  
-([Arxiv](https://arxiv.org/abs/2407.14107))
-
+Watch this space :)
 
 
 ## Publications 
+**Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
+Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
+*Symposium on Principles of Programming Languages 2025*  
+([PDF](pdf/approxis.pdf))
+
 **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
 Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
 *Conference on Object-Oriented Programming, Systems, Languages, and Applications 2024*  
 ([PDF](pdf/tachis.pdf))
-
 
 **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
 Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
