@@ -92,6 +92,6 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 
 ## Misc 
 
-##### [CV (Last updated: August 2024)]({% link  pdf/CV.pdf %})
+##### [CV (Last updated: Feb 2025)]({% link  pdf/CV.pdf %})
 ##### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
 ##### [Other stuff]({% link  other/other.markdown %})
