@@ -18,7 +18,7 @@ Click [here]({% link about.markdown %}) for more info about me.
 *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal  
 ([arXiv](https://arxiv.org/abs/2503.04512))  
 
-Watch this space :)
+<!-- Watch this space :) -->
 
 
 ## Publications 
