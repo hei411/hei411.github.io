@@ -10,7 +10,7 @@ I develop higher-order separation logics to reason about higher-order probabilis
 
 Before that, I was an MPhil in Advanced Computer Science student at King's College, [University of Cambridge](https://www.cst.cam.ac.uk/). And before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge.  
 
-My favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey).    
+My outie's favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey).  
 
 [BACK to home page]({% link index.markdown %}) 
 

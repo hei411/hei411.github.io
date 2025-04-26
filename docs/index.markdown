@@ -55,6 +55,11 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 *Masters thesis, 2023*  
 ([PDF](pdf/adm.pdf))
 
+**Flower: A Friendly Federated Learning Research Framework**  
+Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marques, Yan Gao, Lorenzo Sani, *Kwing Hei Li*, Titouan Parcollet, Pedro Porto Buarque de Gusmão, Nicholas D. Lane  
+2022  
+([PDF](pdf/flower.pdf))
+
 **Formalizing May's Theorem**  
 *Kwing Hei Li*  
 *2022*  
