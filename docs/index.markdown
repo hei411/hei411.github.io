@@ -75,25 +75,25 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 
 
 ## Talks 
+**Coneris: Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
+*Logsem Seminar 2025 + Iris Workshop 2025*  
+([Slides](pdf/coneris-iris-slides.pdf))  
+
 **Higher-Order Separation Logic for Probabilistic Programs**  
-*Kwing Hei Li*  
 *CS Research Evaluation 2024*  
 ([Slides](pdf/cs_eval_slides.pdf))  
 
 
 **How to Deal with Rejections - Separation Logics for Probability**  
-*Kwing Hei Li*  
 *LogSem Seminar 2024*  
 ([Slides](pdf/logsem_slides2024.pdf))  
 
 
 **The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  
-*Kwing Hei Li*  
 *Churchill CompSci Talks 2022*  
 ([Slides](pdf/act_slides.pdf), [Recording](https://www.youtube.com/watch?v=EhpI77xgi_U&ab_channel=ChurchillCompSciTalks))  
 
 **Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**  
-*Kwing Hei Li*  
 *Churchill CompSci Talks 2021*  
 ([Slides](pdf/entropy_slides.pdf))  
 <mark>Audience Favourite Talk Prize</mark>
