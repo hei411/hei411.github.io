@@ -3,7 +3,7 @@
 #title: About
 permalink: /about/
 ---
-I am Kwing Hei "Heili" Li, a PhD Student in the [Logics and Semantics group](https://logsem.github.io/) at [Aarhus University](https://cs.au.dk/). My supervisor is [Lars Birkedal](https://cs.au.dk/~birke/) (aka [Separation Logics Lars](https://recurse.social/@lindsey/114837243955649310)).  
+I am Kwing Hei "Heili" Li, a PhD Student in the [Logics and Semantics group](https://logsem.github.io/) at [Aarhus University](https://cs.au.dk/). My supervisor is [Lars Birkedal](https://cs.au.dk/~birke/)[^1].  
 
 
 I develop higher-order separation logics to reason about higher-order probabilistic programs, especially those that might involve concurrency. I am also interested in other relatively theoretical aspects of programming languages, especially type theory. Most of my research is formalized in the [Rocq](https://rocq-prover.org/) proof assistant under the [Iris](https://iris-project.org/index.html) logic framework. The only situations when I have to resort to pen-and-paper proofs are the times when I accidentally left my laptop at home; I am intelligent enough to not trust my calculations and God forbid I attempt to read my own handwriting.   
@@ -14,6 +14,7 @@ My outie's favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey
 
 [BACK to home page]({% link index.markdown %}) 
 
+[^1]: [https://recurse.social/@lindsey/114837243955649310](https://recurse.social/@lindsey/114837243955649310)
  
 <!--- 
 
