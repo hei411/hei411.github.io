@@ -97,7 +97,7 @@ defaults:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
     tracking_id          : G-GKMJMR9FHQ
     anonymize_ip         : # true, false (default)
