@@ -22,7 +22,7 @@ Watch this space :)
 **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal  
 *International Conference on Functional Programming 2025*  
-([Preprint](pdf/coneris.pdf))  
+([PDF](pdf/coneris.pdf))  
 
 **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
 Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
