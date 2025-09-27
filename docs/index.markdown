@@ -103,6 +103,6 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 
 ## Misc 
 
-##### [CV (Last updated: July 2025)]({% link  pdf/CV.pdf %})
+##### [CV (Last updated: September 2025)]({% link  pdf/CV.pdf %})
 ##### [Photo (2023 May Bumps)]({% link  other/coxingphotos/2023mayblades.jpg %})
 ##### [Other stuff]({% link  other/other.markdown %})
