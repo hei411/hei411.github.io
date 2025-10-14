@@ -77,6 +77,10 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 
 
 ## Talks 
+**Separation Logics for Probability, Concurrency, and Security**  
+*Doctoral Symposium 2025*  
+([Slides](pdf/ds-slides.pdf))  
+
 **Coneris: Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *Logsem Seminar 2025 + Iris Workshop 2025*  
 ([Slides](pdf/coneris-iris-slides.pdf))  
