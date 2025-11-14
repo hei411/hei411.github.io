@@ -15,8 +15,10 @@ Click [here]({% link about.markdown %}) for more info about me.
 
 ## Preprints 
 
-Watch this space :)
-
+<!-- Watch this space :) -->
+**Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  
+*Kwing Hei Li*, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
+([arXiv](https://arxiv.org/abs/2511.10135))  
 
 ## Publications 
 **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
