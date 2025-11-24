@@ -79,6 +79,11 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 
 
 ## Talks 
+**The Best Logic for Proving Contextual Refinement of Concurrent Probabilistic Programs You Will Ever See (Today (Probably))**  
+*LogSem Seminar 2025*  
+([Slides](pdf/foxtrot-slides.pdf))  
+
+
 **Separation Logics for Probability, Concurrency, and Security**  
 *Doctoral Symposium 2025*  
 ([Slides](pdf/ds-slides.pdf))  
