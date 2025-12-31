@@ -5,7 +5,7 @@ title: Other stuff
 ---
 
 
-#### [Blog](https://tostirthesoup.blogspot.com/)
+<!-- #### [Blog](https://tostirthesoup.blogspot.com/) -->
 #### [Steffi](https://github.com/hei411/Steffi)
 #### [How to find the best seats in the cinema]({% link  other/mathematiko.pdf %})
 [comment]: <> (#### [Annabelle (a short story)]({% link  other/annabelle.markdown %}) )
