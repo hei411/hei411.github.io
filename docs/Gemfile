@@ -48,5 +48,5 @@ gem "rexml", ">= 3.4.2"
 
 gem "commonmarker", ">= 0.23.10"
 gem "activesupport", ">= 7.0.7.1"
-gem "uri", ">= 1.0.3"
+gem "uri", ">= 1.0.4"
 gem "json", ">= 2.10.2"
