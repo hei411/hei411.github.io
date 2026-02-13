@@ -49,10 +49,10 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
  
 
 ## Unpublished Notes
-**The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic**  
-*Kwing Hei Li*  
-*2023*  
-([PDF](pdf/admil.pdf))
+<!-- **The Fundamental Theorem of Asynchronous Distributed Models in Intuitionistic Logic**   -->
+<!-- *Kwing Hei Li*   -->
+<!-- *2023*   -->
+<!-- ([PDF](pdf/admil.pdf)) -->
 
 **Wait-Free Task Solvability of Asynchronous Distributed Models**  
 *Kwing Hei Li*  
@@ -64,10 +64,10 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 2022  
 ([PDF](pdf/flower.pdf))
 
-**Formalizing May's Theorem**  
-*Kwing Hei Li*  
-*2022*  
-([PDF](pdf/may.pdf))
+<!-- **Formalizing May's Theorem**   -->
+<!-- *Kwing Hei Li*   -->
+<!-- *2022*   -->
+<!-- ([PDF](pdf/may.pdf)) -->
 
 **Type Systems for Functional Reactive Programming**  
 *Kwing Hei Li*  
@@ -79,9 +79,9 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 
 
 ## Talks 
-**The Best Logic for Proving Contextual Refinement of Concurrent Probabilistic Programs You Will Ever See (Today (Probably))**  
-*LogSem Seminar 2025*  
-([Slides](pdf/foxtrot-slides.pdf))  
+<!-- **The Best Logic for Proving Contextual Refinement of Concurrent Probabilistic Programs You Will Ever See (Today (Probably))**   -->
+<!-- *LogSem Seminar 2025*   -->
+<!-- ([Slides](pdf/foxtrot-slides.pdf))   -->
 
 
 **Separation Logics for Probability, Concurrency, and Security**  
@@ -92,14 +92,14 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 *Logsem Seminar 2025 + Iris Workshop 2025*  
 ([Slides](pdf/coneris-iris-slides.pdf))  
 
-**Higher-Order Separation Logic for Probabilistic Programs**  
-*CS Research Evaluation 2024*  
-([Slides](pdf/cs_eval_slides.pdf))  
+<!-- **Higher-Order Separation Logic for Probabilistic Programs**   -->
+<!-- *CS Research Evaluation 2024*   -->
+<!-- ([Slides](pdf/cs_eval_slides.pdf))   -->
 
 
-**How to Deal with Rejections - Separation Logics for Probability**  
-*LogSem Seminar 2024*  
-([Slides](pdf/logsem_slides2024.pdf))  
+<!-- **How to Deal with Rejections - Separation Logics for Probability**   -->
+<!-- *LogSem Seminar 2024*   -->
+<!-- ([Slides](pdf/logsem_slides2024.pdf))   -->
 
 
 **The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  

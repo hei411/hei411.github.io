@@ -78,7 +78,7 @@ post_search: True
 #theme: minima
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
