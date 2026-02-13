@@ -17,33 +17,33 @@ Click [here]({% link about.markdown %}) for more info about me.
 
 <!-- Watch this space :) -->
 **Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  
-*Kwing Hei Li*, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
+*K. H. Li*, A. Aguirre, J. Tassarotti, L. Birkedal  
 ([arXiv](https://arxiv.org/abs/2511.10135))  
 
 ## Publications 
 **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
-*Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal  
+*K. H. Li*, A. Aguirre, S. O. Gregersen, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
 *International Conference on Functional Programming 2025*  
 ([PDF](pdf/coneris.pdf))  
 
 **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
-Philipp G. Haselwarter, *Kwing Hei Li*, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
+P. G. Haselwarter, *K. H. Li*, A. Aguirre, S. O. Gregersen, J. Tassarotti, L. Birkedal  
 *Symposium on Principles of Programming Languages 2025*  
 ([PDF](pdf/approxis.pdf))
 
 **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
-Phillipp G. Haselwarter, *Kwing Hei Li*, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal  
+P. G. Haselwarter, *K. H. Li*, M. de Medeiros, S. O. Gregersen, A. Aguirre, J. Tassarotti, L. Birkedal  
 *Conference on Object-Oriented Programming, Systems, Languages, and Applications 2024*  
 ([PDF](pdf/tachis.pdf))
 
 **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
-Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal  
+A. Aguirre, P. G. Haselwarter, M. de Medeiros, *K. H. Li*, S. O. Gregersen, J. Tassarotti, L. Birkedal  
 *International Conference on Functional Programming 2024*  
 ([PDF](pdf/eris.pdf))  
 <mark>Distinguished Paper Award</mark>  
 
 **Secure Aggregation for Federated Learning in Flower**  
-*Kwing Hei Li*, Pedro Porto Buarque de Gusmão, Daniel J. Beutel, Nicholas D. Lane  
+*K. H. Li*, P. P. B. de Gusmão, D. J. Beutel, N. D. Lane  
 *International Workshop on Distributed Machine Learning 2021*  
 ([PDF](pdf/salvia.pdf))
  
@@ -55,12 +55,12 @@ Alejandro Aguirre, Philipp G. Haselwarter, Markus de Medeiros, *Kwing Hei Li*, S
 <!-- ([PDF](pdf/admil.pdf)) -->
 
 **Wait-Free Task Solvability of Asynchronous Distributed Models**  
-*Kwing Hei Li*  
+*K. H. Li*  
 *Masters thesis, 2023*  
 ([PDF](pdf/adm.pdf))
 
 **Flower: A Friendly Federated Learning Research Framework**  
-Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marques, Yan Gao, Lorenzo Sani, *Kwing Hei Li*, Titouan Parcollet, Pedro Porto Buarque de Gusmão, Nicholas D. Lane  
+D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani, *K. H. Li*, T. Parcollet, P. P. B. de Gusmão, N. D. Lane  
 2022  
 ([PDF](pdf/flower.pdf))
 
@@ -70,7 +70,7 @@ Daniel J. Beutel, Taner Topal, Akhil Mathur, Xinchi Qiu, Javier Fernandez-Marque
 <!-- ([PDF](pdf/may.pdf)) -->
 
 **Type Systems for Functional Reactive Programming**  
-*Kwing Hei Li*  
+*K. H. Li*  
 *Bachelor thesis, 2022*  
 ([PDF](pdf/eva.pdf))
 
