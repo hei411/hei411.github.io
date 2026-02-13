@@ -7,7 +7,7 @@
 title: 'Home'
 #exclude: true
 ---
-I'm Heili. I can run down stairs really fast.
+I'm Kwing Hei Li, or simply Heili. I can run down stairs really fast.
 
 Click [here]({% link about.markdown %}) for more info about me.
 
