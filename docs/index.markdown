@@ -9,40 +9,40 @@ title: 'Home'
 ---
 I'm Kwing Hei Li, or simply Heili. I can run down stairs really fast.
 
-Click [here]({% link about.markdown %}) for more info about me.
+Click [**HERE**]({% link about.markdown %}) for more info about me.
 
 
 
 ## Preprints 
 
 <!-- Watch this space :) -->
-**Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  
+- **Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  
 *K. H. Li*, A. Aguirre, J. Tassarotti, L. Birkedal  
 ([arXiv](https://arxiv.org/abs/2511.10135))  
 
 ## Publications 
-**Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
+- **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *K. H. Li*, A. Aguirre, S. O. Gregersen, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
 *International Conference on Functional Programming 2025*  
 ([PDF](pdf/coneris.pdf))  
 
-**Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
+- **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
 P. G. Haselwarter, *K. H. Li*, A. Aguirre, S. O. Gregersen, J. Tassarotti, L. Birkedal  
 *Symposium on Principles of Programming Languages 2025*  
 ([PDF](pdf/approxis.pdf))
 
-**Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
+- **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
 P. G. Haselwarter, *K. H. Li*, M. de Medeiros, S. O. Gregersen, A. Aguirre, J. Tassarotti, L. Birkedal  
 *Conference on Object-Oriented Programming, Systems, Languages, and Applications 2024*  
 ([PDF](pdf/tachis.pdf))
 
-**Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
+- **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
 A. Aguirre, P. G. Haselwarter, M. de Medeiros, *K. H. Li*, S. O. Gregersen, J. Tassarotti, L. Birkedal  
 *International Conference on Functional Programming 2024*  
 ([PDF](pdf/eris.pdf))  
 <mark>Distinguished Paper Award</mark>  
 
-**Secure Aggregation for Federated Learning in Flower**  
+- **Secure Aggregation for Federated Learning in Flower**  
 *K. H. Li*, P. P. B. de Gusmão, D. J. Beutel, N. D. Lane  
 *International Workshop on Distributed Machine Learning 2021*  
 ([PDF](pdf/salvia.pdf))
@@ -54,12 +54,12 @@ A. Aguirre, P. G. Haselwarter, M. de Medeiros, *K. H. Li*, S. O. Gregersen, J. T
 <!-- *2023*   -->
 <!-- ([PDF](pdf/admil.pdf)) -->
 
-**Wait-Free Task Solvability of Asynchronous Distributed Models**  
+- **Wait-Free Task Solvability of Asynchronous Distributed Models**  
 *K. H. Li*  
 *Masters thesis, 2023*  
 ([PDF](pdf/adm.pdf))
 
-**Flower: A Friendly Federated Learning Research Framework**  
+- **Flower: A Friendly Federated Learning Research Framework**  
 D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani, *K. H. Li*, T. Parcollet, P. P. B. de Gusmão, N. D. Lane  
 2022  
 ([PDF](pdf/flower.pdf))
@@ -69,7 +69,7 @@ D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani
 <!-- *2022*   -->
 <!-- ([PDF](pdf/may.pdf)) -->
 
-**Type Systems for Functional Reactive Programming**  
+- **Type Systems for Functional Reactive Programming**  
 *K. H. Li*  
 *Bachelor thesis, 2022*  
 ([PDF](pdf/eva.pdf))
@@ -84,11 +84,11 @@ D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani
 <!-- ([Slides](pdf/foxtrot-slides.pdf))   -->
 
 
-**Separation Logics for Probability, Concurrency, and Security**  
+- **Separation Logics for Probability, Concurrency, and Security**  
 *Doctoral Symposium 2025*  
 ([Slides](pdf/ds-slides.pdf))  
 
-**Coneris: Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
+- **Coneris: Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *Logsem Seminar 2025 + Iris Workshop 2025*  
 ([Slides](pdf/coneris-iris-slides.pdf))  
 
@@ -102,11 +102,11 @@ D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani
 <!-- ([Slides](pdf/logsem_slides2024.pdf))   -->
 
 
-**The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  
+- **The Asynchronous Computability Theorem - A Marriage Between Distributed Systems and Algebraic Topology**  
 *Churchill CompSci Talks 2022*  
 ([Slides](pdf/act_slides.pdf), [Recording](https://www.youtube.com/watch?v=EhpI77xgi_U&ab_channel=ChurchillCompSciTalks))  
 
-**Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**  
+- **Understanding the Source Coding Theorem - A Talk on Shannon’s Entropy**  
 *Churchill CompSci Talks 2021*  
 ([Slides](pdf/entropy_slides.pdf))  
 <mark>Audience Favourite Talk Prize</mark>
