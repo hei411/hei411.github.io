@@ -77,7 +77,7 @@ exclude: [vendor]
 
 # Add general links to site pages here
 links:
-  About: about/
+  About: /about/
   
 
 # Add links for more focus here
@@ -95,3 +95,11 @@ special_links:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : G-GKMJMR9FHQ
+    anonymize_ip         : # true, false (default)
