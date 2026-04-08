@@ -24,7 +24,7 @@ url: "https://hei411.github.io" # the base hostname & protocol for your site, e.
 github_username:  hei411
 linkedin_username: heili
 
-remote_theme: HongMinYang/jekyll-bear-theme
+# remote_theme: HongMinYang/jekyll-bear-theme
 
 
 # Build settings
@@ -77,13 +77,13 @@ exclude: [vendor]
 
 # Add general links to site pages here
 links:
-   About: about/
+  About: about/
   
 
 # Add links for more focus here
 special_links:
-   "Github": https://github.com/hei411
-   "Linkedin": https://linkedin.com/in/heili
+  "Github": https://github.com/hei411
+  "Linkedin": https://linkedin.com/in/heili
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
