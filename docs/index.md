@@ -22,28 +22,28 @@ Click [**HERE**]({% link about.md %}) for more info about me.
 ## Publications 
 - **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *K. H. Li*, A. Aguirre, S. O. Gregersen, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
-*International Conference on Functional Programming 2025*  
+*ICFP 2025*  
 ([PDF](pdf/coneris.pdf))  
 
 - **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
 P. G. Haselwarter, *K. H. Li*, A. Aguirre, S. O. Gregersen, J. Tassarotti, L. Birkedal  
-*Symposium on Principles of Programming Languages 2025*  
+*POPL 2025*  
 ([PDF](pdf/approxis.pdf))
 
 - **Tachis: Higher-Order Separation Logic with Credits for Expected Costs**  
 P. G. Haselwarter, *K. H. Li*, M. de Medeiros, S. O. Gregersen, A. Aguirre, J. Tassarotti, L. Birkedal  
-*Conference on Object-Oriented Programming, Systems, Languages, and Applications 2024*  
+*OOPSLA 2024*  
 ([PDF](pdf/tachis.pdf))
 
 - **Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs**  
 A. Aguirre, P. G. Haselwarter, M. de Medeiros, *K. H. Li*, S. O. Gregersen, J. Tassarotti, L. Birkedal  
-*International Conference on Functional Programming 2024*  
+*ICFP 2024*  
 ([PDF](pdf/eris.pdf))  
 <mark>Distinguished Paper Award</mark>  
 
 - **Secure Aggregation for Federated Learning in Flower**  
 *K. H. Li*, P. P. B. de Gusmão, D. J. Beutel, N. D. Lane  
-*International Workshop on Distributed Machine Learning 2021*  
+*DistributedML 2021*  
 ([PDF](pdf/salvia.pdf))
  
 

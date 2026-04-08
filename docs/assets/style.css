@@ -16,9 +16,9 @@
     --width: 720px;
     
     /* Typography */
-    --font-main: 'IBM Plex Mono', monospace;
-    --font-secondary: 'IBM Plex Mono', monospace;
-    --font-monospace: 'IBM Plex Mono', monospace;
+    --font-main: Helvetica;
+    --font-secondary: Helvetica;
+    --font-monospace: Helvetica;
     --font-scale: 0.9em;
     
     /* Spacing */
