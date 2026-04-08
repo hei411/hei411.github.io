@@ -29,7 +29,7 @@ P. G. Haselwarter, A. Aguirre, S. O. Gregersen, *K. H. Li*, J. Tassarotti, L. Bi
 - **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *K. H. Li*, A. Aguirre, S. O. Gregersen, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
 *ICFP 2025*  
-([PDF](pdf/coneris.pdf))  
+([PDF](pdf/coneris.pdf))
 
 - **Approximate Relational Reasoning for Higher-Order Probabilistic Programs**  
 P. G. Haselwarter, *K. H. Li*, A. Aguirre, S. O. Gregersen, J. Tassarotti, L. Birkedal  

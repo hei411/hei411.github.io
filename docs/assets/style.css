@@ -13,13 +13,13 @@
 
 :root {
     /* Layout */
-    --width: 720px;
+    --width: 1000px;
     
     /* Typography */
-    --font-main: Helvetica;
-    --font-secondary: Helvetica;
-    --font-monospace: Helvetica;
-    --font-scale: 0.9em;
+    --font-main: Times;
+    --font-secondary: Times;
+    --font-monospace: Times;
+    --font-scale: 1em;
     
     /* Spacing */
     --spacing-xs: 5px;
@@ -44,7 +44,7 @@
     --background-color: #F5F7F3; /* Light pine needle mist */
     --heading-color: #1A3025; /* Deep forest green */
     --text-color: #0F2018; /* Dark pine shadow */
-    --link-color: #2D5016; /* Forest moss */
+    --link-color: ##2D5016; /* Forest moss */
     --visited-color: #1E3A11; /* Deep woodland */
     --main-color: #4A7C59; /* Pine needle green */
     --code-background-color: #E8EDEA; /* Frosted pine */
@@ -136,7 +136,7 @@ a:visited {
 
 /* External link marker */
 a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
-    content: "↗";
+    content: ""; /* "↗"; */
     font-family: var(--font-monospace);
 }
 
