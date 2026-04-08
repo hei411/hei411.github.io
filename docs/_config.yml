@@ -24,7 +24,7 @@ url: "https://hei411.github.io" # the base hostname & protocol for your site, e.
 github_username:  hei411
 linkedin_username: heili
 
-theme: jekyll-bear-theme
+remote_theme: HongMinYang/jekyll-bear-theme
 
 
 # Build settings
