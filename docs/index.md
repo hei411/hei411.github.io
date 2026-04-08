@@ -96,6 +96,6 @@ D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani
 
 ## Misc 
 
-##### [CV (Last updated: September 2025)]({% link  pdf/CV.pdf %})
+<!-- ##### [CV (Last updated: September 2025)]({% link  pdf/CV.pdf %}) -->
 ##### [Photo (2023 May Bumps)]({% link  other/2023mayblades.jpg %})
 ##### [Other stuff]({% link  other.markdown %})

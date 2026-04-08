@@ -78,6 +78,7 @@ exclude: [vendor]
 # Add general links to site pages here
 links:
   About: /about/
+  CV: /pdf/CV.pdf
   
 
 # Add links for more focus here
@@ -102,4 +103,4 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : G-GKMJMR9FHQ
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true
