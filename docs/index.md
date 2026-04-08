@@ -6,6 +6,8 @@ layout: default
 title: Home
 ---
 
+# Home
+
 I'm Kwing Hei Li, or simply Heili. I can run down stairs really fast.
 
 Click [**HERE**]({% link about.md %}) for more info about me.
@@ -15,6 +17,10 @@ Click [**HERE**]({% link about.md %}) for more info about me.
 ## Preprints 
 
 <!-- Watch this space :) -->
+
+- **Modular Verification of Differential Privacy in Probabilistic Higher-Order Separation Logic**  
+P. G. Haselwarter, A. Aguirre, S. O. Gregersen, *K. H. Li*, J. Tassarotti, L. Birkedal  
+
 - **Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  
 *K. H. Li*, A. Aguirre, J. Tassarotti, L. Birkedal  
 ([arXiv](https://arxiv.org/abs/2511.10135))  
