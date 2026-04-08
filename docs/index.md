@@ -73,7 +73,7 @@ D. J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani
 *Doctoral Symposium 2025*  
 ([Slides](pdf/ds-slides.pdf))  
 
-- **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
+- **Coneris: Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs**  
 *Logsem Seminar 2025 + Iris Workshop 2025*  
 ([Slides](pdf/coneris-iris-slides.pdf))  
 
