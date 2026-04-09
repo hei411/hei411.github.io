@@ -24,7 +24,6 @@ url: "https://hei411.github.io" # the base hostname & protocol for your site, e.
 github_username:  hei411
 linkedin_username: heili
 
-# remote_theme: HongMinYang/jekyll-bear-theme
 
 
 # Build settings
@@ -99,8 +98,4 @@ special_links:
 
 
 # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : G-GKMJMR9FHQ
-    anonymize_ip         : true
+google_analytics: G-GKMJMR9FHQ
