@@ -17,14 +17,19 @@ Click [**HERE**]({% link about.md %}) for more info about me.
 ## Preprints 
 
 <!-- Watch this space :) -->
+- **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic**  
+M. de Medeiros, P. Liu, *K. H. Li*, *A. Aguirre*, L. Birkedal, J. Tassarotti  
 
-- **Modular Verification of Differential Privacy in Probabilistic Higher-Order Separation Logic**  
-P. G. Haselwarter, A. Aguirre, S. O. Gregersen, *K. H. Li*, J. Tassarotti, L. Birkedal  
-
-- **Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  ([arXiv](https://arxiv.org/abs/2511.10135))  
-*K. H. Li*, A. Aguirre, J. Tassarotti, L. Birkedal 
 
 ## Publications 
+- **Modular Verification of Differential Privacy in Probabilistic Higher-Order Separation Logic**  
+P. G. Haselwarter, A. Aguirre, S. O. Gregersen, *K. H. Li*, J. Tassarotti, L. Birkedal  
+*PLDI 2026*  
+
+- **Contextual Refinement of Higher-Order Concurrent Probabilistic Programs**  <!-- ([arXiv](https://arxiv.org/abs/2511.10135))   -->  
+*K. H. Li*, A. Aguirre, J. Tassarotti, L. Birkedal  
+*PLDI 2026*  
+
 - **Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs** ([PDF](pdf/coneris.pdf))  
 *K. H. Li*, A. Aguirre, S. O. Gregersen, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
 *ICFP 2025* 
