@@ -18,7 +18,7 @@ Click [**HERE**]({% link about.md %}) for more info about me.
 
 <!-- Watch this space :) -->
 - **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic**  
-M. de Medeiros, P. Liu, *K. H. Li*, *A. Aguirre*, L. Birkedal, J. Tassarotti  
+M. de Medeiros, P. Liu, *K. H. Li*, A. Aguirre, L. Birkedal, J. Tassarotti  
 
 
 ## Publications 
