@@ -13,4 +13,6 @@ Before that, I was an MPhil in Advanced Computer Science student at King's Colle
 
 My outie's favourite mammal is the [donkey](https://en.wikipedia.org/wiki/Donkey).  
 
+Email: hei . li @ cs . au . dk
+
 [BACK to home page]({% link index.md %}) 
