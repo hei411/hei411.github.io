@@ -12,7 +12,7 @@ I'm Kwing Hei Li, or simply Heili. I can run down stairs really fast.
 
 Click [**HERE**]({% link about.md %}) for more info about me.
 
-
+Email: hei . li @ cs . au . dk
 
 ## Preprints 
 
