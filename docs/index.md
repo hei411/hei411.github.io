@@ -16,12 +16,14 @@ Email: hei . li @ cs . au . dk
 
 ## Preprints 
 
-<!-- Watch this space :) -->
-- **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic**  
-M. de Medeiros, P. Liu, *K. H. Li*, A. Aguirre, L. Birkedal, J. Tassarotti  
+Watch this space :)
 
 
 ## Publications 
+- **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic**  
+M. de Medeiros, P. Liu, *K. H. Li*, A. Aguirre, L. Birkedal, J. Tassarotti  
+*LICS 2026*  
+
 - **Modular Verification of Differential Privacy in Probabilistic Higher-Order Separation Logic**  
 P. G. Haselwarter, A. Aguirre, S. O. Gregersen, *K. H. Li*, J. Tassarotti, L. Birkedal  
 *PLDI 2026*  
