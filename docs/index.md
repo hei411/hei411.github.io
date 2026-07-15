@@ -20,7 +20,7 @@ Watch this space :)
 
 
 ## Publications 
-- **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic**  
+- **Verifying Exact Samplers for Continuous Distributions with a Discrete Program Logic** ([PDF](pdf/continuous-eris.pdf))  
 M. de Medeiros, P. Liu, *K. H. Li*, A. Aguirre, L. Birkedal, J. Tassarotti  
 *LICS 2026*  
 
