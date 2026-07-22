@@ -16,7 +16,9 @@ Email: hei . li @ cs . au . dk
 
 ## Preprints 
 
-Watch this space :)
+<!-- Watch this space :) -->
+- **Elton: Urn Resources for Reasoning about Adversarial Probabilistic Programs** ([ArXiV](https://arxiv.org/abs/2607.13459))  
+*K. H. Li*, A. Aguirre, P. G. Haselwarter, J. Tassarotti, L. Birkedal  
 
 
 ## Publications 
