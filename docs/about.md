@@ -11,7 +11,7 @@ I develop higher-order separation logics to reason about higher-order probabilis
 
 Before that, I was an MPhil in Advanced Computer Science student at King's College, [University of Cambridge](https://www.cst.cam.ac.uk/). And before that, I was a Computer Science with Mathematics undergraduate at Churchill College, University of Cambridge.  
 
-My blood type is O.
+My blood type is O+.
 
 Email: hei . li @ cs . au . dk
 
